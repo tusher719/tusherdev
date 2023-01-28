@@ -1,7 +1,7 @@
 [![Tusherdev](https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg)](https://tusherdev.com)
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Tusher</h1>
 <h3 align="center">A passionate frontend and backend developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
+<img align="right" alt="coding" width="320" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusher719&label=Profile%20views&color=0e75b6&style=flat" alt="tusher719" /> </p>
 
