@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="http://tusherdev.com/frontend/images/bg/bnr1.jpg" alt="tusher719" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusher719" alt="tusher719" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://appsero.com/app/uploads/2021/12/Career-as-a-software-developer.png" alt="tusher719" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
