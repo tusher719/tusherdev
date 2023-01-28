@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Tusher</h1>
 <h3 align="center">A passionate frontend and backend developer from Bangladesh</h3>
 
-<p align="left"> <img src="[http://tusherdev.com/frontend/images/bg/bnr1.jpg](https://appsero.com/app/uploads/2021/12/Career-as-a-software-developer.png)" alt="tusher719" /> </p>
+<p align="left"> <img src="[[http://tusherdev.com/frontend/images/bg/bnr1.jpg](https://appsero.com/app/uploads/2021/12/Career-as-a-software-developer.png)](https://appsero.com/app/uploads/2021/12/Career-as-a-software-developer.png)" alt="tusher719" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="" alt="tusher719" /></a> </p>
 
